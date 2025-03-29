@@ -5,8 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debadc" alt="debadc" /></a> </p>
 
+- 🌱 I’m currently learning **Advance java and DSA**
+
+- 💬 Ask me about **Java, Web Development and MySql**
+
+- 📫 How to reach me **debabratasi35@gmail.com**
+
+- 📄 Know about my experiences [www.linkedin.com/in/debabrata-si](www.linkedin.com/in/debabrata-si)
+
+- ⚡ Fun fact **I never doubt on my Decession.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/debabrata-si" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/debabrata-si" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
